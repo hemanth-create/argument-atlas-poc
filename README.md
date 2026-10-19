@@ -2,6 +2,8 @@
 
 **Prototype only · Public case data · No AI model calls · No firm integrations**
 
+**Docs:** [Overview](docs/OVERVIEW.md) (what it is, why, roadmap) · [Architecture](docs/ARCHITECTURE.md) (components, data flow, security, testing)
+
 ## What works
 
 - Search 10 curated **expert challenges** from **four real public federal court orders**, in Missouri.
