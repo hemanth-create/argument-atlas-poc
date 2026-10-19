@@ -1,0 +1,39 @@
+[client]
+toolbarMode = "minimal"
+
+[browser]
+gatherUsageStats = false
+
+[theme]
+base = "light"
+primaryColor = "#1E3A8A"
+backgroundColor = "#F8FAFC"
+secondaryBackgroundColor = "#EEF2F7"
+textColor = "#0F172A"
+borderColor = "#CBD5E1"
+linkColor = "#1E3A8A"
+linkUnderline = false
+codeTextColor = "#1E3A8A"
+codeBackgroundColor = "#EEF2F7"
+yellowColor = "#B45309"
+yellowTextColor = "#92400E"
+yellowBackgroundColor = "#FEF3C7"
+orangeColor = "#B45309"
+orangeTextColor = "#92400E"
+orangeBackgroundColor = "#FEF3C7"
+blueColor = "#1E3A8A"
+blueTextColor = "#1E3A8A"
+blueBackgroundColor = "#E9EEF5"
+greenColor = "#0F766E"
+greenTextColor = "#115E59"
+greenBackgroundColor = "#CCFBF1"
+redColor = "#BE123C"
+redTextColor = "#9F1239"
+redBackgroundColor = "#FFE4E6"
+baseRadius = "0.6rem"
+buttonRadius = "0.5rem"
+showWidgetBorder = true
+baseFontSize = 16
+font = "Lato:https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap, sans-serif"
+headingFont = "EB Garamond:https://fonts.googleapis.com/css2?family=EB+Garamond:wght@500;600&display=swap, serif"
+codeFont = "JetBrains Mono:https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500&display=swap, monospace"
